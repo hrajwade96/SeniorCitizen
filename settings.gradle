@@ -1,0 +1,3 @@
+rootProject.name='ResearchWear'
+include ':mobile'
+include ':wear'

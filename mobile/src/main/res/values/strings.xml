@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ResearchWear</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="eggs_ready">ready</string>
+    <string name="egg_notification_channel_id">id1</string>
+    <string name="notification_title">title</string>
+    <string name="breakfast_notification_channel_description">desc</string>
+    <string name="title">title</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
